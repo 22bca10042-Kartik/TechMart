@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Computers",
+    "brand": "ExampleBrand",
+    "price": 999.99,
+    "stock": 50,
+    "description": "Powerful laptop with a quad-core i5 processor, 8GB RAM, 256GB SSD, and a 14-inch FHD display.",
+    "image": "./public/images/lapi.png"
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 499.99,
+    "stock": 100,
+    "image": "./public/images/iphone.png",
+    "description": "Feature-rich smartphone with a 6.2-inch screen, 12MP dual camera, 128GB storage, and a 4000mAh battery."
+  },
+  {
+    "id": 3,
+    "name": "Wireless Headphones",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "./public/images/headphone.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 4,
+    "name": "Watches",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 199.99,
+    "stock": 20,
+    "image": "./public/images/watch.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 5,
+    "name": "Speakers",
+    "category": "Audio",
+    "brand": "SoundBeats",
+    "price": 149.99,
+    "stock": 30,
+    "image": "./public/images/speakers.png",
+    "description": "High-quality wireless headphones with over-ear design, 20 hours of battery life, and a sleek black color."
+  },
+  {
+    "id": 6,
+    "name": "Television",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 199.99,
+    "stock": 20,
+    "image": "./public/images/tv.png",
+    "description": "Smartwatch with a 1.3-inch AMOLED display, water-resistant design, fitness tracking features, and a stylish silver color."
+  },
+  {
+    "id": 7,
+    "name": "Gaming Laptop",
+    "category": "Computers",
+    "brand": "GameMaster",
+    "price": 1599.99,
+    "stock": 25,
+    "description": "High-performance gaming laptop with RTX 3060 GPU, 16GB RAM, 1TB SSD, and 144Hz refresh rate display.",
+    "image": "https://m.media-amazon.com/images/I/718zbAOG7HL._AC_UY327_FMwebp_QL65_.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tablet",
+    "category": "Mobiles",
+    "brand": "TechGadget",
+    "price": 349.99,
+    "stock": 40,
+    "image": "https://m.media-amazon.com/images/I/71jWCM3KVYL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "10.5-inch tablet with stylus support, 128GB storage, and 10-hour battery life."
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker",
+    "category": "Wearables",
+    "brand": "FitTech",
+    "price": 89.99,
+    "stock": 60,
+    "image": "https://m.media-amazon.com/images/I/61qAYFdjkpL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "Lightweight fitness tracker with heart rate monitor, sleep tracking, and 7-day battery life."
+  },
+  {
+    "id": 10,
+    "name": "4K Smart TV",
+    "category": "Video",
+    "brand": "Samsung",
+    "price": 899.99,
+    "stock": 15,
+    "image": "https://m.media-amazon.com/images/I/61Zqq7Dzh2L._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "55-inch 4K UHD Smart TV with HDR and built-in streaming apps."
+  },
+  {
+    "id": 11,
+    "name": "DSLR Camera",
+    "category": "Photography",
+    "brand": "PhotoPro",
+    "price": 749.99,
+    "stock": 12,
+    "image": "https://m.media-amazon.com/images/I/81lghf1fdzL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "24.2MP DSLR camera with 18-55mm lens, 4K video, and Wi-Fi connectivity."
+  },
+  {
+    "id": 12,
+    "name": "External SSD",
+    "category": "Storage",
+    "brand": "FastDrive",
+    "price": 129.99,
+    "stock": 50,
+    "image": "https://m.media-amazon.com/images/I/714cd9DfoeL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "1TB external SSD with USB-C connectivity and 1050MB/s transfer speeds."
+  },
+  {
+    "id": 13,
+    "name": "Wireless Charger",
+    "category": "Accessories",
+    "brand": "TechGadget",
+    "price": 29.99,
+    "stock": 80,
+    "image": "https://m.media-amazon.com/images/I/71O59aVg-cL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "15W fast wireless charging pad compatible with all Qi-enabled devices."
+  },
+  {
+    "id": 14,
+    "name": "Mechanical Keyboard",
+    "category": "Computers",
+    "brand": "KeyMaster",
+    "price": 109.99,
+    "stock": 30,
+    "image": "https://m.media-amazon.com/images/I/61eg1BJHrFL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "RGB mechanical gaming keyboard with customizable keys and wrist rest."
+  },
+  {
+    "id": 15,
+    "name": "Gaming Mouse",
+    "category": "Computers",
+    "brand": "GameMaster",
+    "price": 59.99,
+    "stock": 40,
+    "image": "https://m.media-amazon.com/images/I/61kI0PIuXVL._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "High-precision gaming mouse with 16000 DPI and programmable buttons."
+  },
+  {
+    "id": 16,
+    "name": "Action Camera",
+    "category": "Photography",
+    "brand": "AdventureCam",
+    "price": 299.99,
+    "stock": 20,
+    "image": "https://m.media-amazon.com/images/I/71bPJVQ+mEL._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "4K action camera with waterproof case, image stabilization, and voice control."
+  },
+  {
+    "id": 17,
+    "name": "Smart Home Hub",
+    "category": "Smart Home",
+    "brand": "HomeTech",
+    "price": 149.99,
+    "stock": 25,
+    "image": "https://m.media-amazon.com/images/I/51HoO0jaK5L._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "Central control for all your smart home devices with voice assistant integration."
+  },
+  {
+    "id": 18,
+    "name": "Robot Vacuum",
+    "category": "Smart Home",
+    "brand": "CleanTech",
+    "price": 399.99,
+    "stock": 10,
+    "image": "https://m.media-amazon.com/images/I/716eOTHEA7L._AC_UL480_FMwebp_QL65_.jpg",
+    "description": "Smart robot vacuum with laser mapping, app control, and self-charging."
+  },
+  {
+    "id": 19,
+    "name": "VR Headset",
+    "category": "Gaming",
+    "brand": "GameMaster",
+    "price": 499.99,
+    "stock": 8,
+    "image": "https://m.media-amazon.com/images/I/61eTjWKud8L._AC_UY327_FMwebp_QL65_.jpg",
+    "description": "Immersive VR experience with 110-degree field of view and motion controllers."
+  }
+]
